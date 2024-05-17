@@ -1,0 +1,16 @@
+Turing 06/17/1990 7.6
+vonNeumann 03/26/2002 4.25
+Dijkstra 08/22/2007 9.8
+vonNeumann 01/11/1999 4.2
+Dijkstra 11/18/1995 6.2
+Hoare 05/10/1993 7.4
+vonNeumann 02/12/1994 7.2
+Hoare 08/18/1992 6.7
+Turing 01/11/2002 6.3
+Thompson 02/27/2000 5.2
+Turing 02/11/1991 4.2
+Hoare 08/12/2003 9.2
+vonNeumann 10/13/1993 8.9
+Dijkstra 09/10/2000 8.3
+Turing 10/12/1993 8.1
+Hoare 02/10/2005 8.4

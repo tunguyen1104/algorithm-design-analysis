@@ -1,0 +1,12 @@
+javac -cp ".;libs/algs4.jar" b2/DijkstraSP.java
+
+java -cp ".;libs/algs4.jar" b2/DijkstraSP b2/tinyEWD.txt "1" "7"
+
+java -cp ".;libs/algs4.jar" b3/DijkstraAllPairsSP b3/tinyEWD.txt
+
+
+
+
+
+
+
